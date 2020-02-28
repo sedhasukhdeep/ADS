@@ -1,0 +1,10 @@
+,User1 (Positive),User1 (Neutral),User1 (Negative),Total
+User2 (Postive),4,11,2,17
+User2 (Neutral),8,7,3,18
+User2 (Negative),2,8,5,15
+Total,14,26,10,50
+,,,,
+,,,observed agreement (A_o),0.32
+,,,expected agreement (A_e),0.3424
+,,,Cohen’s Kappa,-0.03406326
+,,,Survey link,https://mqedu.qualtrics.com/jfe/form/SV_bwuiS67shJF4ma1
